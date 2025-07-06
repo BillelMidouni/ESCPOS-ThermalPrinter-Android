@@ -1,2 +1,2 @@
-include ':app', ':escposprinter'
+include ':app', ':escposprinter', ':react-native-bridge'
 rootProject.name='ThermalPrinter'

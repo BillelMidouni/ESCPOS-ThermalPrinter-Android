@@ -1,0 +1,9 @@
+{
+  "name": "react-native-escpos-bridge",
+  "version": "0.1.0",
+  "description": "React Native bridge for ESCPOS thermal printers",
+  "main": "index.js",
+  "keywords": ["escpos", "react-native", "printer"],
+  "author": "",
+  "license": "MIT"
+}
